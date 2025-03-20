@@ -1,0 +1,63 @@
+ Kapsamlı, AI destekli, kişiselleştirilmiş öğrenme ve topluluk odaklı bir platform geliştir. Kullanıcılar hesap açabilmeli, topluluklar oluşturabilmeli, yarışmalara katılabilmeli, AI desteğiyle öğrenme sürecini geliştirebilmeli ve keşfet bölümü üzerinden yeni içeriklere ulaşabilmelidir.
+
+✅ Önemli Not: TÜM özellikler %100 çalışır ve entegre olmalıdır!
+
+📌 Ana Bölümler:
+1️⃣ Keşfet 🔍
+
+Popüler dersler, trend konular, yeni topluluklar ve aktif yarışmalar burada gösterilsin.
+
+Kullanıcılar ilgi alanlarına göre filtreleyerek içerik keşfedebilsin.
+
+2️⃣ AI Destekli Öğrenme 🤖
+
+DeepSeek AI entegre edilerek kullanıcının sorularını yanıtlasın.
+
+AI, öğrenme geçmişine göre kişiselleştirilmiş ders önerileri sunsun.
+
+Kullanıcılar buradan dersleri izleyip, materyallere erişebilsin.
+
+3️⃣ Topluluklar 🌍
+
+Kullanıcılar topluluklara katılabilsin, içerik paylaşabilsin.
+
+“+ Yeni Topluluk Oluştur” butonu olsun, kullanıcılar isim, açıklama, kapak görseli ekleyerek topluluk açabilsin.
+
+Topluluklar içinde forum benzeri tartışmalar olsun.
+
+4️⃣ Yarışmalar 🏆
+
+Kullanıcılar güncel yarışmalara katılabilsin, ödüller kazanabilsin.
+
+Yarışma detayları, kurallar, son katılım tarihi gibi bilgiler gösterilsin.
+
+Kazananlar için bir lider tablosu olsun.
+
+5️⃣ Profil & Kullanıcı Yönetimi 👤
+
+Giriş/Kayıt Sistemi: Kullanıcılar e-posta veya sosyal hesaplarla giriş yapabilsin.
+
+Kullanıcı Rolü Seçimi:
+
+Student (Öğrenci): Yaş sorulsun. Eğer 13 yaş altı ise, “Ebeveyn İzni” bölümü açılsın.
+
+Teacher (Öğretmen): Ders yükleyebilme yetkisi olsun.
+
+Mentor (Rehber): Öğrencilere özel destek verebilme yetkisi olsun.
+
+🎯 Teknik Gereksinimler:
+✅ Frontend: React.js / Next.js + Tailwind CSS (modern, hızlı ve şık tasarım için)
+✅ Backend: Node.js (Express) veya Django (Python)
+✅ Veritabanı: PostgreSQL veya MongoDB
+✅ AI Entegrasyonu: DeepSeek API ile bağlanarak çalışır hale getir
+✅ Gerçek Zamanlı İşlevler: Firebase veya WebSockets kullanarak anlık mesajlaşma ve bildirim desteği ekle
+✅ Güvenlik: JWT ile yetkilendirme + 13 yaş altı kullanıcılar için ebeveyn izni kontrolü
+
+🎯 HEDEF: Eksiksiz, entegre, çalışır ve kullanıcı dostu bir Zeuph platformu oluştur! 🚀
+
+
+
+
+
+
+
